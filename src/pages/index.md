@@ -29,10 +29,10 @@ sections:
       - title: Feature 1
         content: |
           line one
+          <br>
 
-          line
-
-          two
+          line two
+          <br>
 
           line three
         align: left
