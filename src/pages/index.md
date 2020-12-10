@@ -27,12 +27,10 @@ sections:
     title: Features
     features:
       - title: Feature 1
-        content: |-
+        content: |
           line one
-
-
-          line two
-
+          line
+          two
           line three
         align: left
         image: images/feature.svg
