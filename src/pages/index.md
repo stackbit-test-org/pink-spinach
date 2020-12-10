@@ -30,7 +30,7 @@ sections:
         content: |
           Lorem
 
-
+          hi
 
           hello
         align: left
