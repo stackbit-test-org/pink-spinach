@@ -32,6 +32,7 @@ sections:
           <br>
 
           line two2
+          <br>
 
           line three
         align: left
