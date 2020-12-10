@@ -29,9 +29,10 @@ sections:
       - title: Feature 1
         content: |
           Lorem
-          <br>
 
-          ipsum
+
+
+          hello
         align: left
         image: images/feature.svg
         image_position: right
