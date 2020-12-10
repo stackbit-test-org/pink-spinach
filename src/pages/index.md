@@ -27,12 +27,7 @@ sections:
     title: Features
     features:
       - title: Feature 1
-        content: |
-          Lorem
-
-          hi
-
-          hello
+        content: ''
         align: left
         image: images/feature.svg
         image_position: right
