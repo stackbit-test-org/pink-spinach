@@ -27,10 +27,11 @@ sections:
     title: Features
     features:
       - title: Feature 1
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: |
+          Lorem
+          <br>
+
+          ipsum
         align: left
         image: images/feature.svg
         image_position: right
