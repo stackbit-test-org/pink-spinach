@@ -29,6 +29,7 @@ sections:
       - title: Feature 1
         content: |
           line one
+          <br>
 
           line two
         align: left
