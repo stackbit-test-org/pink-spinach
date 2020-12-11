@@ -32,6 +32,9 @@ sections:
           <br>
 
           line two
+          <br>
+
+          line three
         align: left
         image: images/feature.svg
         image_position: right
